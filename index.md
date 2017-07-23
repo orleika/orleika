@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# History
+## History
 
 - 2017 SeckHack365 (NICT)
 - 2017 SCIS2017 暗号と情報セキュリティシンポジウム
@@ -18,7 +18,7 @@ layout: default
 - 2014 TOKYO HACKATHON (Goodfind), 優勝
 - 2014 NHK大学ロボコン, MARS
 
-# Learned about
+## Learned about
 - database design&tuning
 - digital circuit design
 - machine learning
@@ -28,3 +28,6 @@ layout: default
 - web design
 - web fingerprinting
 - web security
+
+## Keys&Contact
+https://keybase.io/orleika
