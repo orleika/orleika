@@ -24,7 +24,7 @@ layout: default
 - machine learning
 - network design
 - secure coding
-- statics
+- statistics
 - web design
 - web fingerprinting
 - web security
