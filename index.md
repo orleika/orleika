@@ -4,7 +4,7 @@ layout: default
 
 ## History
 
-- 2017 SeckHack365 (NICT)
+- 2017 SecHack365 (NICT)
 - 2017 SCIS2017 暗号と情報セキュリティシンポジウム
 - 2016 IMIS 2016: The 10th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing
 - 2016 Hack Day (Yahoo Japan)
@@ -19,6 +19,7 @@ layout: default
 - 2014 NHK大学ロボコン, MARS
 
 ## Learned about
+
 - database design&tuning
 - digital circuit design
 - machine learning
@@ -30,4 +31,5 @@ layout: default
 - web security
 
 ## Keys&Contact
+
 [https://keybase.io/orleika](https://keybase.io/orleika)
