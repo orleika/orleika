@@ -4,7 +4,10 @@ layout: default
 
 ## History
 
-- 2017 SecHack365 (NICT)
+- 2018 Yahoo Japan Corporation
+- 2018 明治大学大学院 (Meiji University) 工学修士号 (MBIT)
+- 2018 SCIS2018 暗号と情報セキュリティシンポジウム
+- 2017-2018 SecHack365 (NICT)
 - 2017 SCIS2017 暗号と情報セキュリティシンポジウム
 - 2016 IMIS 2016: The 10th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing
 - 2016 Hack Day (Yahoo Japan)
